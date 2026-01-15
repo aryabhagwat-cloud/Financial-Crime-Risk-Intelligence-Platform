@@ -1,0 +1,64 @@
+=== FINANCIAL CRIME SUSPICIOUS ACTIVITY REPORT ===
+System: Graph-Based Fraud Detection Engine
+Status: URGENT REVIEW REQUIRED
+
+Transaction Index: 776
+Risk Score: HIGH
+Amount: $25975.86
+Alert Reasons:
+ - [RING] Part of Suspicious Community #35
+--------------------------------------------------
+Transaction Index: 931
+Risk Score: HIGH
+Amount: $48880.98
+Alert Reasons:
+ - [RING] Part of Suspicious Community #709
+--------------------------------------------------
+Transaction Index: 3930
+Risk Score: HIGH
+Amount: $10565.00
+Alert Reasons:
+ - [RING] Part of Suspicious Community #70
+--------------------------------------------------
+Transaction Index: 4996
+Risk Score: HIGH
+Amount: $33332.86
+Alert Reasons:
+ - [RING] Part of Suspicious Community #203
+--------------------------------------------------
+Transaction Index: 5018
+Risk Score: HIGH
+Amount: $21571.00
+Alert Reasons:
+ - [RING] Part of Suspicious Community #2
+--------------------------------------------------
+Transaction Index: 5307
+Risk Score: HIGH
+Amount: $216422.00
+Alert Reasons:
+ - [RING] Part of Suspicious Community #7
+--------------------------------------------------
+Transaction Index: 6068
+Risk Score: HIGH
+Amount: $26768.50
+Alert Reasons:
+ - [RING] Part of Suspicious Community #53
+--------------------------------------------------
+Transaction Index: 6181
+Risk Score: HIGH
+Amount: $10119.47
+Alert Reasons:
+ - [RING] Part of Suspicious Community #68
+--------------------------------------------------
+Transaction Index: 6206
+Risk Score: HIGH
+Amount: $244068.01
+Alert Reasons:
+ - [RING] Part of Suspicious Community #21
+--------------------------------------------------
+Transaction Index: 6450
+Risk Score: HIGH
+Amount: $14949.84
+Alert Reasons:
+ - [RING] Part of Suspicious Community #38
+--------------------------------------------------

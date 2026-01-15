@@ -1,0 +1,38 @@
+Time,User,Action,Details
+2026-01-15 01:37:59,System,LOGIN,Admin logged in
+2026-01-15 01:39:03,Admin,REPORT,Generated PDF for Ring #35
+2026-01-15 01:39:32,Admin,FREEZE,Froze Ring #35
+2026-01-15 01:44:25,System,LOGIN,Admin Access Granted
+2026-01-15 01:46:19,System,LOGIN,Admin Access Granted
+2026-01-15 01:47:44,System,LOGIN,Admin Access Granted
+2026-01-15 01:50:49,System,LOGIN,Admin Access Granted
+2026-01-15 01:51:35,Admin,FREEZE,Frozen Ring #35
+2026-01-15 01:52:03,Admin,FREEZE,Frozen Ring #35
+2026-01-15 01:52:06,Admin,FREEZE,Frozen Ring #35
+2026-01-15 01:52:29,Admin,FREEZE,Frozen Ring #53
+2026-01-15 01:52:35,Admin,FREEZE,Frozen Ring #68
+2026-01-15 01:56:05,System,LOGIN,Admin Access Granted
+2026-01-15 01:56:41,Admin,FREEZE,Frozen Ring #21
+2026-01-15 01:57:25,Admin,REPORT,Generated PDF for Ring #2
+2026-01-15 02:00:44,System,LOGIN,Access Granted
+2026-01-15 02:01:21,Admin,FREEZE,Frozen Ring #35
+2026-01-15 02:01:44,Admin,FREEZE,Frozen Ring #35
+2026-01-15 02:01:51,Admin,FREEZE,Frozen Ring #35
+2026-01-15 02:03:36,System,LOGIN,Access Granted
+2026-01-15 02:03:46,Admin,FREEZE,Ring #35
+2026-01-15 02:04:10,Admin,FREEZE,Ring #53
+2026-01-15 02:06:39,System,LOGIN,Access Granted
+2026-01-15 02:06:44,Admin,FREEZE,Frozen Ring #35
+2026-01-15 02:09:16,System,LOGIN,Access Granted
+2026-01-15 02:09:23,Admin,FREEZE,Frozen Ring #35
+2026-01-15 02:11:14,System,LOGIN,Access Granted
+2026-01-15 02:11:36,Admin,FREEZE,Frozen Ring #2 (Taylor Dubois)
+2026-01-15 02:12:31,Admin,REPORT,Generated PDF for Ring #2
+2026-01-15 02:13:41,System,LOGIN,Access Granted
+2026-01-15 02:13:47,Admin,FREEZE,Frozen Ring #35 (Taylor Dubois)
+2026-01-15 02:14:43,Admin,FREEZE,Frozen Ring #7 (Alex Shadow)
+2026-01-15 02:15:43,System,LOGIN,Access Granted
+2026-01-15 02:19:29,System,LOGIN,Access Granted
+2026-01-15 02:19:55,Admin,SIMULATION,High-Risk Test: $1000000.0
+2026-01-15 02:20:43,Admin,SIMULATION,High-Risk Test: $491784.0
+2026-01-15 02:21:21,Admin,LOGOUT,Session ended
